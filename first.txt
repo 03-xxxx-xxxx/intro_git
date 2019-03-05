@@ -1,7 +1,1 @@
-gitの連取をしていきます。
-
-learn fundamentals
-.git add
-・git commit
-git remove
-aaabbbb
+初めてのgit
