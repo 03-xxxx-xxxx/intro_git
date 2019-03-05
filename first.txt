@@ -1,3 +1,5 @@
 gitの連取をしていきます。
 
 learn fundamentals
+.git add
+・git commit
