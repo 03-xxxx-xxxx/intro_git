@@ -4,4 +4,4 @@ learn fundamentals
 .git add
 ・git commit
 git remove
-aaa
+aaabbbb
