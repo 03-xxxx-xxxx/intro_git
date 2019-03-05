@@ -1,0 +1,3 @@
+gitの連取をしていきます。
+
+learn fundamentals
